@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Servicios",
+  "description": "A responsive administration dashboard for managing users, roles, clients, and services, including image uploads.",
+  "requestFramePermissions": []
+}
